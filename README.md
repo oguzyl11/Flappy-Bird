@@ -56,6 +56,21 @@ python flappy_bird.py
   - Hareketli kanatlar
   - Geniş oyun alanı
 
-## Geliştirici
+## Geliştiriciler
 
-- [Oğuzhan Yıldırım](https://github.com/oguzyl11) 
+### İnsan Geliştirici
+- [Oğuzhan Yıldırım](https://github.com/oguzyl11)
+
+### Yapay Zeka Katkısı
+Bu projenin geliştirilmesinde Claude (Anthropic) yapay zeka asistanı önemli katkılarda bulunmuştur:
+- Oyun mekaniği tasarımı
+- Kod optimizasyonu
+- Kartal karakterinin tasarımı
+- Dinamik zorluk sistemi
+- Başlangıç ekranı implementasyonu
+- Yüksek skor sistemi
+- Belgelendirme ve dokümantasyon
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın. 
